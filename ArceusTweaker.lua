@@ -10,7 +10,7 @@
             OpenAnimation = {"Pop", "Fade"},
             CloseAnimation = "Slide",
         }
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/YOU/REPO/main/ArceusTweaker.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxHackaWithDelta/arceusthing/main/ArceusTweaker.lua"))()
 
     Built-in animations: None, Pop, Fade, Slide, Drop, Spin
     Use one name, or a list of names to combine them.
